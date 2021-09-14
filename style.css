@@ -1,3 +1,18 @@
 body {
-    background-color: black;
+    background-color: lightgray;
+}
+
+.headings {
+    font-size: larger;
+    font-family: monospace;
+}
+
+.projects {
+    color: lightseagreen;
+}
+
+#para1 {
+    text-align: center;
+    text-underline-position: below;
+
 }
