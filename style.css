@@ -16,3 +16,7 @@ body {
     text-underline-position: below;
 
 }
+
+ul > .projects {
+    color: lightyellow;
+}
